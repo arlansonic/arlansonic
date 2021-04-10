@@ -1,6 +1,6 @@
 👋 Hello, I'm @arlansonic
 👀 I'm interested in Web Development
-🌱 I'm currently learning FullStack: Css, Html, JavaScript, Node Js.
+🌱 I'm currently learning Front End Web Development: Css, Html, JavaScript, Node Js.
 💞️ I'm looking to collaborate in Html, Css, JavaScript and Node JS
 📫 How to get to me.
 Email: arlan.marreiro@gmail.com
